@@ -61,6 +61,16 @@
 ---
 
 
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/bilalamjad-devops"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://medium.com/@bilalamjad-devops"><img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" /></a>
+<a href="https://www.youtube.com/@bilalamjad-devops"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" /></a>
+</p>
+
+---
 
 
 <!--
