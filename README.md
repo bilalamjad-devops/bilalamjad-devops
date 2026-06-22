@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=HAMZAH%20HASHMI&fontSize=55&color=0:00F7FF,100:7C3AED&stroke=FFFFFF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=BILAL%20AMJAD&fontSize=55&color=0:00F7FF,100:7C3AED&stroke=FFFFFF&animation=twinkling" />
 </p>
 
 <h2 align="center">🚀 DevOps & Cloud Engineer | AWS • Docker • Linux • CI/CD</h2>
