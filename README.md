@@ -10,56 +10,121 @@
 
 
 
+# 👋 Hi, I'm Bilal Amjad
 
+## AWS | Terraform | DevOps | Cloud Automation
 
+I enjoy building **real-world AWS automation projects** that solve practical engineering and cloud cost optimization problems.
 
-
----
-
-## 🧰 DevOps Toolchain
-
-### ☁️ Cloud & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" />
-</p>
-
-### 🐳 Containers & Orchestration
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
-</p>
-
-### 🔁 CI/CD & Automation
-<p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
-</p>
-
-### 📊 Observability & Monitoring
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
-<img height="48" src="https://cdn.simpleicons.org/fluentd/0B5FFF" />
-</p>
-
-### 🔐 Security & DevSecOps
-<p>
-<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
-</p>
-
-### 🗄️ Version Control & Collaboration
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-</p>
-
-### 🖥️ Scripting & OS
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
-</p>
+Instead of learning cloud services in isolation, I focus on combining them into production-inspired solutions using **Terraform**, **AWS Lambda**, **Amazon EventBridge**, **Amazon S3**, **CloudFront**, **IAM**, and **GitHub Actions**.
 
 ---
 
+# 💼 Business Problems I've Solved
+
+✅ Automatically start and stop EC2 instances during office hours to reduce compute costs.
+
+✅ Automatically delete unused EBS snapshots to reduce unnecessary storage costs.
+
+✅ Automatically resize images uploaded to Amazon S3 using AWS Lambda.
+
+✅ Deploy secure static websites with Amazon CloudFront.
+
+✅ Build highly available AWS infrastructure using Terraform.
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Technologies | Business Value |
+|----------|-------------|----------------|
+| 🖥 EC2 Office Hours Scheduler | Terraform, EventBridge, Lambda | Automatically starts EC2 instances at 8 AM and stops them at 5 PM (Mon–Fri) to reduce AWS costs. |
+| 💾 EBS Snapshot Cleanup | Terraform, Lambda | Automatically deletes unused EBS snapshots left behind after infrastructure changes. |
+| 🖼 S3 Image Resizer | Terraform, S3, Lambda, SNS | Automatically resizes uploaded images and sends email notifications. |
+| 🌍 CloudFront Static Website | CloudFront, S3 | Deploy a secure and globally distributed static website. |
+| 🏗 Three-Tier AWS Architecture | Terraform, ALB, Auto Scaling, RDS | Deploy a production-inspired highly available infrastructure on AWS. |
+
+---
+
+# 📚 Latest Technical Articles
+
+- 📝 Stop Paying for Idle EC2 Instances Using Terraform, EventBridge Scheduler, and AWS Lambda
+- 📝 Delete Unused AWS EBS Snapshots Automatically Using Terraform and AWS Lambda
+- 📝 Automatically Resize Images Using AWS S3, Lambda, SNS, and Terraform
+- 📝 How IAM Access Analyzer Helps Identify Risky or Unused Access in AWS
+- 📝 Deploy a Static Website with Amazon CloudFront
+
+---
+
+# 🛠 Tech Stack
+
+### Cloud
+
+AWS
+
+### Infrastructure as Code
+
+Terraform
+
+### Containers
+
+Docker
+
+### Programming
+
+Python
+
+Bash
+
+### CI/CD
+
+GitHub Actions
+
+### Operating Systems
+
+Linux
+
+Windows Server
+
+---
+
+# 📈 GitHub Statistics
+
+<!-- GitHub Stats -->
+
+<!-- Top Languages -->
+
+<!-- Contribution Graph -->
+
+---
+
+# 🎯 Current Focus
+
+- AWS Automation
+
+- Infrastructure as Code
+
+- Cloud Cost Optimization
+
+- DevSecOps
+
+- Kubernetes
+
+---
+
+# 📫 Let's Connect
+
+💼 LinkedIn
+
+✍ Medium
+
+📺 YouTube
+
+📧 Email
+
+---
+
+> *"Building practical cloud projects today to become a better DevOps Engineer tomorrow."*
 
 ## 🤝 Connect With Me
 
