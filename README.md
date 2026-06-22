@@ -13,6 +13,58 @@
 
 
 
+
+
+
+---
+
+## 🧰 DevOps Toolchain
+
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" />
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+</p>
+
+### 🔁 CI/CD & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+</p>
+
+### 📊 Observability & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+<img height="48" src="https://cdn.simpleicons.org/fluentd/0B5FFF" />
+</p>
+
+### 🔐 Security & DevSecOps
+<p>
+<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
+</p>
+
+### 🗄️ Version Control & Collaboration
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+### 🖥️ Scripting & OS
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
+</p>
+
+---
+
+
+
+
 <!--
 22-June-2026
 -->
